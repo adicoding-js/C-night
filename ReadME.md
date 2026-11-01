@@ -1,6 +1,6 @@
 # C-Night
 
-![PCB RENDER](image-1.png)
+![PCB RENDER](1image.png)
 ![Schematic](<Screenshot 2026-10-28 161236.png>)
 
 A handheld tactical HUD gadget built on an ESP32-S3. It combines a live camera feed, a thermal sensor, a laser pointer, and IR night vision into one device with an on-screen overlay.
